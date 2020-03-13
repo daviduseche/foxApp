@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'StarJedi';
+  src: url('../fonts/StarJedi-DGRW.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'StarJediHollow';
+  src: url('../fonts/StarJediHollow-A4lL.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'StarJediRound';
+  src: url('../fonts/StarJediRounded-jW3R.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'DeathStar';
+  src: url('../fonts/DeathStar-VmWB.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SfDistant';
+  src: url('../fonts/SfDistantGalaxyOutline-xoeO.ttf') format('truetype');
+}
